@@ -38,16 +38,15 @@ pip install -r requirements.txt
 
 ## Dataset
 
-train/
- ├── Angry/
- ├── Disgust/
- ├── Fear/
- ├── Happy/
- ├── Sad/
- ├── Surprise/
- └── Neutral/
 
-
+train/  
+├── Angry        
+├── Disgust    
+├── Fear             
+├── Happy   
+├── Sad   
+├── Surprise     
+└── Neutral                     
 
 ## Training the Model
 
